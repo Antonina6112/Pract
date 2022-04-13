@@ -1,0 +1,1 @@
+﻿const int VAR = 228;
